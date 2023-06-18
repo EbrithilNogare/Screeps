@@ -1,1 +1,5 @@
 # Screeps
+
+```
+yarn run build
+```
