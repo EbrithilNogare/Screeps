@@ -1,8 +1,10 @@
 {
     "compilerOptions": {
-      "target": "es6",
-      "module": "commonjs",
-      "sourceMap": true,
-      "outDir": "Build"
-    }
-  }
+        "allowSyntheticDefaultImports": true,
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "es5",
+        "allowJs": true
+    },
+    "files": ["src/main.ts"]
+}
